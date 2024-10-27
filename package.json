@@ -5,11 +5,11 @@
     "description": "Minecraft Launcher",
     "main": "src/app.js",
     "author": {
-        "name": "Asuna",
+        "name": "DKSDraKy",
         "email": "oscosgarcia@gmail.com",
         "url": "https://github.com/DKSDraKy"
     },
-    "url": "http://dedsafio.luuxis.fr",
+    "url": "http://dedsafiotesting.rf.gd",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/DKSDraKy/DEDsafio-Launcher"
     }
 }
